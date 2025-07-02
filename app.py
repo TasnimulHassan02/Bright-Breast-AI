@@ -9,7 +9,7 @@ from matplotlib import pyplot as plt
 
 
 app = Flask(__name__)
-model = tf.keras.models.load_model('models/multi_task_U-Net_model.h5') 
+model = tf.keras.models.load_model('multi_task_U-Net_model.h5') 
 
 @app.route('/')
 def home():
