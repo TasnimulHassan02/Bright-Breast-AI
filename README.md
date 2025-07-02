@@ -1,4 +1,4 @@
-<b>Breast cancer</b> is a major cause of mortality in women worldwide. Early and accurate diagnosis is critical. This project applies a multi-task deep learning approach using a customized U-Net model to:
+Breast cancer is a major cause of mortality in women worldwide. Early and accurate diagnosis is critical. This project applies a multi-task deep learning approach using a customized U-Net model to:
 
 🔍 Segment tumors in breast ultrasound images
 
@@ -8,6 +8,7 @@ The model is deployed on a simple, modern Flask web app allowing users to upload
 
 
 🚀 Features
+<\n>
 Upload an ultrasound image.
 
 View the predicted class.
@@ -16,6 +17,7 @@ See the segmentation mask.
 
 Simple, modern Flask web interface.
 
-
+<\n>
 📸 Demo
+
 Upload → Predict → See result + mask
