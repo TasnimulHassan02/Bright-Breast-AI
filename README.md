@@ -8,7 +8,7 @@ The model is deployed on a simple, modern Flask web app allowing users to upload
 
 
 🚀 Features
-<\n>
+</n>
 Upload an ultrasound image.
 
 View the predicted class.
