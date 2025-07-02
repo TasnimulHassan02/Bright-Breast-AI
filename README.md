@@ -7,8 +7,8 @@ Breast cancer is a major cause of mortality in women worldwide. Early and accura
 The model is deployed on a simple, modern Flask web app allowing users to upload an ultrasound image and receive predictions with visual segmentation.
 
 
-🚀 Features
-</n>
+🚀 Features:
+
 Upload an ultrasound image.
 
 View the predicted class.
@@ -17,7 +17,6 @@ See the segmentation mask.
 
 Simple, modern Flask web interface.
 
-<\n>
-📸 Demo
+📸 Demo:
 
 Upload → Predict → See result + mask
