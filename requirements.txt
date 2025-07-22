@@ -1,0 +1,4 @@
+flask
+tensorflow  # or torch
+Pillow
+numpy
